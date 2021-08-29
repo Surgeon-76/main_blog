@@ -1,4 +1,4 @@
-from sqlalchemy import *
+from sqlalchemy import MetaData, create_engine
 from databases import *
 
 user_name_db = 'surglin'
