@@ -1,12 +1,17 @@
 asgiref==3.4.1
 asyncpg==0.24.0
+backports.entry-points-selectable==1.1.0
 click==8.0.1
 databases==0.4.3
+distlib==0.3.2
 fastapi==0.68.1
+filelock==3.0.12
 h11==0.12.0
 ormar==0.10.16
+platformdirs==2.2.0
 psycopg2-binary==2.9.1
 pydantic==1.8.2
+six==1.16.0
 SQLAlchemy==1.3.23
 starlette==0.14.2
 typing-extensions==3.7.4.3
